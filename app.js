@@ -1,0 +1,1 @@
+// add new status to the javaScript
